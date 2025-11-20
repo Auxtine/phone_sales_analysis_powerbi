@@ -1,142 +1,136 @@
-📊 # Salary Analysis Dashboard (Power BI)
+# 📱 Mobile Phones Sales Analysis Dashboard (Power BI)
 
-This project explores salary trends across regions, genders, and experience levels. The goal was to create a clear and interactive dashboard that highlights the difference between salaries in Nigeria and global earnings.
-
-
----
-
-📌 ## Project Overview
-
-The dashboard provides insights into:
-
-- Average salary in Nigeria and globally
-
-- Salary differences by gender
-
-- Earnings by experience level
-
-- Regional salary distribution within Nigeria
-
-- Quick insights displayed through KPI cards
-
-
-Each visual was designed to help users understand salary patterns in a simple and meaningful way.
+This project explores a dataset of **3,000+ mobile phone sales,** covering brands, models, prices, memory, storage, discounts, and ratings.
+The goal is to clean the dataset, analyze key insights, and present everything in a **clear and interactive Power BI dashboard.**
 
 
 ---
 
-🧹 ## Data Cleaning and Preparation
+## 🔍 Project Objectives
 
-All cleaning was done in Power Query.
+- Clean and prepare the sales dataset
 
-Key steps included:
+- Handle missing values (Memory, Storage, Ratings)
 
-- Handling missing entries
+- Transform Storage and Memory into numerical values
 
-- Converting salary values to proper numerical formats
+- Build analytical measures
 
-- Standardizing region names
+- Design a professional Power BI dashboard
 
-- Removing duplicates and unwanted fields
-
-- Creating calculated fields to support analysis
-
-
-These steps ensured that all visuals and metrics remained accurate.
+- Publish the report and share insights
 
 
 ---
 
-📈 ## Dashboard Features
+## 📊 Key Questions Answered
 
-**KPI Cards**
+- Which **brands** sell the most phones?
 
-- Average Salary (Nigeria)
+- What is the **average selling price** across brands and models?
 
-- Average Salary (Global)
+- Which **memory and storage sizes** are most common?
 
-- Salary by Gender
-
-- Salary by Experience Level
-
-- Salary by Region
+- What is the **highest memory and storage capacity** sold?
 
 
-**Charts and Visuals**
+---
 
-- Nigeria vs Global salary comparison
+## 🧹 Data Cleaning Steps
 
-- Salary by gender
+- Filled missing values for Ratings using **average rating**
 
-- Salary by experience
+- Converted Memory values to a consistent format
 
-- Salary distribution across regions
+- Extracted numerical Memory and Storage values
 
-Clean layout with interactive filters
+- Converted MB → GB and TB → GB
+
+- Created new clean columns for analysis
+
+- Removed unused or NULL-only columns
 
 
 
 ---
 
-🛠 ## Tools Used
+## 📐 KPIs Included
 
-- **Power BI Desktop**
+- **Total Phone Models**
 
-- **Power Query**
+- **Number of Brands**
 
-- **DAX**
+- **Average Selling Price**
 
-- **Data modelling**
+- **Total Phones Sold**
 
-
-
----
-
-📷 ## Dashboard Preview
-
-![Salary Dashboard](EmployeeSalaryAnalysis.png)
-
-
----
-
-📁 ## How to Use This Project
-
-1. Download the .pbix file from this repository
-
-
-2. Open it in Power BI Desktop
-
-
-3. Explore the visuals and interactions
-
+- **Highest Storage Capacity**
 
 
 
 ---
 
-📚 ## Dataset Source
+## 📉 Visualizations
 
-The dataset was used for educational and analysis purposes only.
+- Sales by Brand
 
+- Memory Capacity Distribution
 
----
-
-🤝 ## About the Project
-
-- This project helped develop practical experience in:
-
-- Cleaning and preparing data
-
-- Building analytical dashboards
-
-- Transforming raw data into useful insights
-
-- Communicating patterns visually
+- Storage Capacity Distribution
 
 
 
 ---
 
-🔗 ## Connect With Me
+## 🛠 Tools Used
+
+- **Power BI Desktop 2025 (October release)**
+
+- **Excel 2016** for initial inspection
+
+- **DAX** for measures
+
+- **Power Query** for transformation
+
+
+
+---
+
+📷 Dashboard Preview
+
+Paste this line after you upload your dashboard screenshot:
+
+![Sales Dashboard](https://raw.githubusercontent.com/Auxtine/phone_sales_analysis_powerbi/main/PhoneSalesAnalysis.png)
+
+
+---
+
+## 🚀 How to Use This Dashboard
+
+1. Download the .pbix file
+
+
+2. Open it using Power BI Desktop
+
+
+3. Explore the interactive visuals
+
+
+4. Filter by memory, storage, brand, or selling price
+
+
+
+---
+
+## 📝 Author
+
+Austin Ezra
+Data Analyst | Frontend Developer 
+
+
+
+---
+
+## 🔗  Connect With Me
 
 Feel free to share suggestions or reach out on GitHub or LinkedIn.
