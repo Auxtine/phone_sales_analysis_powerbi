@@ -98,8 +98,6 @@ The goal is to clean the dataset, analyze key insights, and present everything i
 
 📷 Dashboard Preview
 
-Paste this line after you upload your dashboard screenshot:
-
 ![Sales Dashboard](https://raw.githubusercontent.com/Auxtine/phone_sales_analysis_powerbi/main/PhoneSalesAnalysis.png)
 
 
