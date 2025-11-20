@@ -1,23 +1,23 @@
-📊 Salary Analysis Dashboard (Power BI)
+📊 # Salary Analysis Dashboard (Power BI)
 
 This project explores salary trends across regions, genders, and experience levels. The goal was to create a clear and interactive dashboard that highlights the difference between salaries in Nigeria and global earnings.
 
 
 ---
 
-📌 Project Overview
+📌 ## Project Overview
 
 The dashboard provides insights into:
 
-Average salary in Nigeria and globally
+- Average salary in Nigeria and globally
 
-Salary differences by gender
+- Salary differences by gender
 
-Earnings by experience level
+- Earnings by experience level
 
-Regional salary distribution within Nigeria
+- Regional salary distribution within Nigeria
 
-Quick insights displayed through KPI cards
+- Quick insights displayed through KPI cards
 
 
 Each visual was designed to help users understand salary patterns in a simple and meaningful way.
@@ -25,21 +25,21 @@ Each visual was designed to help users understand salary patterns in a simple an
 
 ---
 
-🧹 Data Cleaning and Preparation
+🧹 ## Data Cleaning and Preparation
 
 All cleaning was done in Power Query.
 
 Key steps included:
 
-Handling missing entries
+- Handling missing entries
 
-Converting salary values to proper numerical formats
+- Converting salary values to proper numerical formats
 
-Standardizing region names
+- Standardizing region names
 
-Removing duplicates and unwanted fields
+- Removing duplicates and unwanted fields
 
-Creating calculated fields to support analysis
+- Creating calculated fields to support analysis
 
 
 These steps ensured that all visuals and metrics remained accurate.
@@ -47,30 +47,30 @@ These steps ensured that all visuals and metrics remained accurate.
 
 ---
 
-📈 Dashboard Features
+📈 ## Dashboard Features
 
-KPI Cards
+**KPI Cards**
 
-Average Salary (Nigeria)
+- Average Salary (Nigeria)
 
-Average Salary (Global)
+- Average Salary (Global)
 
-Salary by Gender
+- Salary by Gender
 
-Salary by Experience Level
+- Salary by Experience Level
 
-Salary by Region
+- Salary by Region
 
 
-Charts and Visuals
+**Charts and Visuals**
 
-Nigeria vs Global salary comparison
+- Nigeria vs Global salary comparison
 
-Salary by gender
+- Salary by gender
 
-Salary by experience
+- Salary by experience
 
-Salary distribution across regions
+- Salary distribution across regions
 
 Clean layout with interactive filters
 
@@ -78,30 +78,28 @@ Clean layout with interactive filters
 
 ---
 
-🛠 Tools Used
+🛠 ## Tools Used
 
-Power BI Desktop
+- **Power BI Desktop**
 
-Power Query
+- **Power Query**
 
-DAX
+- **DAX**
 
-Data modelling
+- **Data modelling**
 
-
-
----
-
-📷 Dashboard Preview
-
-(Add your photo using this format when ready)
-
-![Salary Dashboard](salary_dashboard.png)
 
 
 ---
 
-📁 How to Use This Project
+📷 ## Dashboard Preview
+
+![Salary Dashboard](EmployeeSalaryAnalysis.png)
+
+
+---
+
+📁 ## How to Use This Project
 
 1. Download the .pbix file from this repository
 
@@ -116,29 +114,29 @@ Data modelling
 
 ---
 
-📚 Dataset Source
+📚 ## Dataset Source
 
 The dataset was used for educational and analysis purposes only.
 
 
 ---
 
-🤝 About the Project
+🤝 ## About the Project
 
-This project helped develop practical experience in:
+- This project helped develop practical experience in:
 
-Cleaning and preparing data
+- Cleaning and preparing data
 
-Building analytical dashboards
+- Building analytical dashboards
 
-Transforming raw data into useful insights
+- Transforming raw data into useful insights
 
-Communicating patterns visually
+- Communicating patterns visually
 
 
 
 ---
 
-🔗 Connect With Me
+🔗 ## Connect With Me
 
 Feel free to share suggestions or reach out on GitHub or LinkedIn.
